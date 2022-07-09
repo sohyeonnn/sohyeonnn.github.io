@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "블로그에 오신걸 환영합니다!"
 date: 2022-07-10 08:26:28 -0400
 categories: jekyll update
 ---
